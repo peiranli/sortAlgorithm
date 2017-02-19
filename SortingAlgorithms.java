@@ -4,9 +4,7 @@ import java.util.*;
 
 public class SortingAlgorithm {
   
-  protected static selectionSort =
-    // Code from memory
-    new SortingExperiment() {
+  protected static selectionSort(){
       protected void sort(int list[])
       {
         for (int j=list.length-1; j>0; j--)
